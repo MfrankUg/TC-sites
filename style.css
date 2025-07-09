@@ -1,5 +1,5 @@
 body{
-    background-image:url('background.jpg');
+    background-image:url('bg1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100% 100%;
@@ -28,10 +28,8 @@ ul.nav_1 li, ul.nav_2 li {
     margin: 0 10px;
 }
 ul.nav_1 a, ul.nav_2 a  {
-    color: #ffffff;
+    color: #ccc8c8;
     text-decoration: none;
-    padding: 5px 10px;
-    border-radius: 5px;
     transition: background-color 0.3s ease;
 }   
 .btn_1 {
