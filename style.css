@@ -50,7 +50,6 @@ ul.nav_1 a, ul.nav_2 a  {
 .cta-button, a{
 text-decoration: none;
 color: #d2d0d0;
-
 }
 .cta-button_1{
     background-color: #8666e0; /* Green */
@@ -59,7 +58,25 @@ color: #d2d0d0;
     border-radius: 50px;
     text-decoration: none;
     margin-right: 10px;
+    font-size: 12px;
+    font-weight: 500;
 }
+.cta-button_2{
+    font-size: 12px;
+}
+
+.cta-button_2:hover{
+    color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    border: 2px solid #8666e0; /* white */
+    background-color: transparent;
+}
+
 
 .footer {
     color: #ffffff;
