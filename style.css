@@ -5,7 +5,6 @@ body{
     background-size: 100% 100%;
     background-attachment: fixed;
     font-family: Arial, sans-serif,Verdana, Tahoma, sans-serif;
-    margin: 0;
     padding: 20px;
     color: #ffffff;
 }
@@ -78,13 +77,7 @@ color: #d2d0d0;
 }
 
 
-.footer {
-    color: #ffffff;
-    padding: 10px 20px;
-    text-align: center;
-    position: fixed;
-    width: 100%;
-}
+
 b{
     font-size: 20px;
     font-weight: 600;
@@ -94,14 +87,23 @@ b{
     font-size: 14px;
     color: #ccc8c8;
 }
+
+.footer {
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+}   
+
 .footer img {
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 20px;
     height: 40px;
     width: 40px;
     background-color: transparent;
-
+    
 }
 .footer a {
     color: #ffffff;
@@ -111,4 +113,10 @@ b{
 }
 .footer a:hover {
     color: #fff
+}
+.container{
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 20px;
+
 }
