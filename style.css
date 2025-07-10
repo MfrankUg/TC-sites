@@ -83,7 +83,6 @@ color: #d2d0d0;
     padding: 10px 20px;
     text-align: center;
     position: fixed;
-    bottom: 0;
     width: 100%;
 }
 b{
@@ -96,13 +95,12 @@ b{
     color: #ccc8c8;
 }
 .footer img {
-    display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
-    height: 25px;
-    width: 25px;
-    margin-top: 5px;
+    height: 40px;
+    width: 40px;
+    background-color: transparent;
 
 }
 .footer a {
