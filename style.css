@@ -120,3 +120,11 @@ b{
     padding: 20px;
 
 }
+h3{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #ffffff;
+    height: 50px;
+    width: 120px;
+}
