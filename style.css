@@ -95,6 +95,8 @@ b{
     text-align: center;
     position: fixed;
     width: 100%;
+    background-color:transparent;
+    border
 }   
 
 .footer img {
@@ -157,7 +159,7 @@ p{
     left: 50%;
     transform: translateX(0%);
     transform: translateY(-80%);
-    box-shadow: #ccc 1px 1px 10px;
+    box-shadow: #686868 1px 1px 10px;
 }
 
 .features {
