@@ -157,6 +157,7 @@ p{
     left: 50%;
     transform: translateX(0%);
     transform: translateY(-80%);
+    box-shadow: #ccc 1px 1px 10px;
 }
 
 .features {
